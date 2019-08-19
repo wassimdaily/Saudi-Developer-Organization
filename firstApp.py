@@ -1,3 +1,11 @@
-myName = 'Waseem'
+# first project for 100D python programming
+ 
+myName = "Waseem Dayili"
 
-print (myName)
+
+def printMyName():
+	print(myName)
+
+
+printMyName()
+
