@@ -1,0 +1,3 @@
+myName = 'Waseem'
+
+print (myName)
