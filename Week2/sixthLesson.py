@@ -37,3 +37,8 @@ if n1 not in numbers:
 else:
 	print('NO')
 
+if (n1 & n1 == 3):
+	print('yes n1 and n2 equal to 3')
+else:
+	print('no')
+
