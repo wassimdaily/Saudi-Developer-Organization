@@ -1,4 +1,4 @@
-#Note:: you should use python version 3.3 to use this program
+# Note:: you should use python version 3.3 to use this program
 # students list
 
 names = ['waseem', 'othman', 'omran', 'osamah']
