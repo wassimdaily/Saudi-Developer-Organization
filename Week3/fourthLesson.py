@@ -9,6 +9,7 @@ print(multiT)
 # call specific value by index
 print(multiT[0]) # print my name 'waseem'
 print(multiT[0:2])
+
 # print all values of the tuble
 for getAll in multiT:
 	print(getAll)
