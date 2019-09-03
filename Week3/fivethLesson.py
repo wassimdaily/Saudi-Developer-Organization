@@ -27,7 +27,7 @@ print(x)
 print('we have '+str(len(cars))+' car.')
 
 # create a tuple by using tuple fuction.
-print( str( tuple(('waseem', 'ahmmed', 'ali', 'dayili')) ) )
+print( tuple(('waseem', 'ahmmed', 'ali', 'dayili')) ) 
 
 
 # example to convert list to tuple
